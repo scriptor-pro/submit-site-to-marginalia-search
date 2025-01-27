@@ -432,3 +432,6 @@ www.bryan-kaperick.me
 terminal.pink
 blog.terminal.pink
 dovel.email
+perdu.com
+bvh.fyi
+somebaudy.com
